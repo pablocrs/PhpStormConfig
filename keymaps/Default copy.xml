@@ -21,7 +21,13 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
   <action id="Console.TableResult.DeleteRows" />
+  <action id="CopyPaths" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="Editor Redo">
@@ -42,6 +48,7 @@
   <action id="GotoBookmark3" />
   <action id="MoveStatementDown" />
   <action id="RecentFiles" />
+  <action id="RemoteHostView.CopyPaths" />
   <action id="ResizeToolWindowDown" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
