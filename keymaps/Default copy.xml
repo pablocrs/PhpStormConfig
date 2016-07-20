@@ -48,9 +48,12 @@
   <action id="GotoBookmark3" />
   <action id="MoveStatementDown" />
   <action id="RecentFiles" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="RemoteHostView.CopyPaths" />
   <action id="Replace">
-    <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="ResizeToolWindowDown" />
