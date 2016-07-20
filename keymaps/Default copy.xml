@@ -49,6 +49,10 @@
   <action id="MoveStatementDown" />
   <action id="RecentFiles" />
   <action id="RemoteHostView.CopyPaths" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
   <action id="ResizeToolWindowDown" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
@@ -65,6 +69,8 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
