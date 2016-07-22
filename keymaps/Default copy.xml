@@ -47,6 +47,7 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
   </action>
   <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="RecentFiles" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
