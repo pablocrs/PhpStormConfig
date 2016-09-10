@@ -1,7 +1,7 @@
 <scheme name="Dark Peacock" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="CONSOLE_FONT_NAME" value="Droid Sans Mono for Powerline" />
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="15" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
@@ -932,7 +932,7 @@
     </option>
     <option name="MAGIC_MEMBER_ACCESS">
       <value>
-        <option name="FOREGROUND" value="b294bb" />
+        <option name="FOREGROUND" value="92bb7b" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
