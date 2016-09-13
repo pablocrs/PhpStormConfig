@@ -1090,12 +1090,12 @@
     </option>
     <option name="PHP_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="cc6666" />
+        <option name="FOREGROUND" value="fcdcc7" />
       </value>
     </option>
     <option name="PHP_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="cc6666" />
+        <option name="FOREGROUND" value="fcdcc7" />
       </value>
     </option>
     <option name="PHP_STRING">
