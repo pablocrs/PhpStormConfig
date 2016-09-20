@@ -1,11 +1,4 @@
 <scheme name="Github@carlosfdev" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="created">2016-09-19T15:56:14</property>
-    <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2016.2.1.0.0</property>
-    <property name="modified">2016-09-19T16:02:03</property>
-    <property name="originalScheme">Github</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
@@ -165,6 +158,12 @@
     <option name="PHP_VAR_VAR">
       <value>
         <option name="FOREGROUND" value="333333" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
   </attributes>
