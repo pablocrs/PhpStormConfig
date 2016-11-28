@@ -1039,8 +1039,7 @@
     </option>
     <option name="PHP_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="faffef" />
-        <option name="BACKGROUND" value="303335" />
+        <option name="FOREGROUND" value="cefffd" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
